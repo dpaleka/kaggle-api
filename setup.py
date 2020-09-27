@@ -40,7 +40,6 @@ setup(
         'requests',
         'tqdm',
         'python-slugify',
-        'slugify',
     ],
     packages=find_packages(),
     license='Apache 2.0')
